@@ -105,6 +105,11 @@ body {
   margin-bottom: 10px;
 }
 
+.web-site-links {
+  text-decoration: none;
+  color: #000000;
+}
+
 /* my-projects-section */
 
 .my-projects-list {
@@ -195,5 +200,6 @@ body {
 /* soft-skills-list */
 
 .contacts-color {
+  text-decoration: none;
   color: #ffffff;
 }
