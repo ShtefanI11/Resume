@@ -109,6 +109,18 @@ body {
   text-decoration: none;
   color: #000000;
 }
+a:hover {
+  text-decoration: none;
+  background: #a1511b;
+  border-radius: 15px;
+}
+.education-href {
+  text-decoration: none;
+  color: #fb6d3a;
+}
+.education-href:hover {
+  background-color: black;
+}
 
 /* my-projects-section */
 
